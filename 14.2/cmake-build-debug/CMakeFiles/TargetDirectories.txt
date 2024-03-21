@@ -1,0 +1,3 @@
+C:/Users/Yaroslav/CLionProjects/laba142/cmake-build-debug/CMakeFiles/laba142.dir
+C:/Users/Yaroslav/CLionProjects/laba142/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yaroslav/CLionProjects/laba142/cmake-build-debug/CMakeFiles/rebuild_cache.dir
